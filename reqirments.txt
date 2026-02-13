@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+soundfile
+torchaudio>=x.y.z;
+deepspeed
